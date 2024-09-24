@@ -9,7 +9,7 @@ This repository is demonstrating how to implement CI pipeline to run tests autom
 * [License](#license) 
 
 ## General Information
-This is a project on development of CI workflow using Jenkins to run tests automatically    
+This is a project on development of CI workflow using Jenkins as a tool to run tests automatically.    
 
 ## Technologies Used
 - C#, ASP.NET Core;
